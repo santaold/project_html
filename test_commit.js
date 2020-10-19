@@ -13,5 +13,11 @@ onauxclick(
 )
 asjkdhvfjsdh]
 jksfbklausd]
+delete jhhhkk
 
-ask;ldgh;akosjbh
+nkklkhnn
+mmm]
+
+
+
+ask ldgh akosjbh
