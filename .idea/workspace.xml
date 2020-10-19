@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54c531ab-46ce-47be-8f0a-01ffbb596861" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="494e7d74-6b9f-41b2-9aca-75833e22819d" />
+  </component>
+  <component name="ProjectId" id="1j5ucqkFmpFlGilcYVyrFu4uLIZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\santa\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54c531ab-46ce-47be-8f0a-01ffbb596861" name="Default Changelist" comment="" />
+      <created>1603106355174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603106355174</updated>
+      <workItem from="1603106356214" duration="11134000" />
+    </task>
+    <task id="LOCAL-00001" summary="save game">
+      <created>1603119087583</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603119087583</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="save game" />
+    <option name="LAST_COMMIT_MESSAGE" value="save game" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="142" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603109968604">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="392" y="142" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1603109968604" />
+    <state x="425" y="0" width="749" height="582" key="CommitChangelistDialog2" timestamp="1603119086700">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="425" y="0" width="749" height="582" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1603119086700" />
+    <state x="288" y="95" key="FileChooserDialogImpl" timestamp="1603108892077">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="288" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603108892077" />
+    <state x="474" y="211" key="Github.ShareDialog" timestamp="1603110073318">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="474" y="211" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1603110073318" />
+    <state x="442" y="0" key="Github.UntrackedFilesDialog" timestamp="1603106396214">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="442" y="0" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1603106396214" />
+    <state x="17" y="0" key="SettingsEditor" timestamp="1603116148138">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="17" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1603116148138" />
+    <state x="154" y="18" key="Vcs.Push.Dialog.v2" timestamp="1603119106720">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="123" y="14" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603115950172" />
+    <state x="154" y="18" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1603119106720" />
+  </component>
+</project>
