@@ -1,0 +1,62 @@
+
+p {
+    background:beige;
+}
+
+li {
+    background: blanchedalmond;
+    margin-bottom: 3px;
+}
+
+.xxx {
+    color: rgba(55, 4, 7, 0.91);
+}
+
+.yyy {
+    font-size: 25px;
+}
+
+#target {
+    font-weight: bolder;
+}
+p {
+    width: 600px;
+    height: 200px;
+    overflow: hidden;
+}
+.xxx {
+    margin: 10px 20px 30px 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 2px solid chocolate;
+
+}
+
+p
+{
+    margin: 20px 10px 20px 10px;
+
+}
+h1 {
+    text-align: center;
+}
+li {
+    width: 400px;
+    height: 20px;
+}
+h1 {
+    width: 600px;
+    text-align: center;
+}
+h2 {
+    width: 600px;
+    text-align: center;
+}
+h3 {
+    width: 600px;
+    text-align: center;
+}
+h5 {
+    width: 600px;
+    text-align: center;
+}
